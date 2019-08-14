@@ -1,16 +1,20 @@
-<p align="center"><img alt="jenphyjohn 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
-jenphyjohn 的个人博客
+<p align="center"><img alt="木鱼酱" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+木鱼酱
 </h2>
 
 <h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="jenphyjohn 的个人博客" target="_blank" href="https://github.com/jenphyjohn/solo-blog"><img src="https://img.shields.io/github/last-commit/jenphyjohn/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="木鱼酱" target="_blank" href="https://github.com/jenphyjohn/solo-blog"><img src="https://img.shields.io/github/last-commit/jenphyjohn/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/jenphyjohn/solo-blog"><img src="https://img.shields.io/github/repo-size/jenphyjohn/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/jenphyjohn/solo-blog.svg"></a></p>
 
 ### 最新
 
-* [世界，你好！](http://blog.join-e.tech/hello-solo)
+* [我在 GitHub 上的开源项目](http://blog.join-e.tech/my-github-repos)
+* [Spring Cloud Alibaba 实战：（一、背景介绍）](http://blog.join-e.tech/articles/2019/08/14/1565712937025.html)
+* [Spring Cloud Alibaba 实战：（二、Nacos服务注册与发现）](http://blog.join-e.tech/articles/2019/08/13/1565709361957.html)
+* [实用SQL积累](http://blog.join-e.tech/articles/2019/08/13/1565673888156.html)
+* [世界，你好！](http://blog.join-e.tech/articles/2019/08/13/1565663405807.html)
 
 
 
